@@ -1,10 +1,8 @@
-### Olá, como vai? Muito prazer! 
-Eu sou a Andressa Quintanilha 😊
+### Olá, como vai? Eu sou a Andressa Quintanilha 😊
 
 - 📘 Estagiária de Desenvolvimento Web
 - 👩‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas
 - 🎨 Iniciante no mundo de UI/UX Design
-- 😄 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/andressaquintanilha">
