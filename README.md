@@ -1,8 +1,8 @@
 ### Olá, como vai? Eu sou a Andressa Quintanilha 😊
 
-- 📘 Estagiária de Desenvolvimento Web
-- 👩‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas
-- 🎨 Iniciante no mundo de UI/UX Design
+- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
+- 📘 Estudante de Front End pelo @vainaweb
+- 👩‍💻 Analista de Testes e Qualidade Júnior
 
 <div>
   <a href="https://github.com/andressaquintanilha">
