@@ -1,8 +1,8 @@
-### Olá, como vai? Eu sou a Andressa Quintanilha 😊
+### Prazer, Andressa Quintanilha! 😊
 
+- 👩‍💻 Analista de Testes e Qualidade de Software Júnior
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
 - 📘 Estudante de Front End pelo @vainaweb
-- 👩‍💻 Analista de Testes e Qualidade de Software Júnior
 
 <div>
   <a href="https://github.com/andressaquintanilha">
