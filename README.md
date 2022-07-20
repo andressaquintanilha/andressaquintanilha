@@ -2,7 +2,7 @@
 
 - 👩‍💻 Analista de Testes e Qualidade de Software Júnior
 - 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
-- 📘 Estudante de Front End pelo @vainaweb
+
 
 <div>
   <a href="https://github.com/andressaquintanilha">
