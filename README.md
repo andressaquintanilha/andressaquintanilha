@@ -1,7 +1,8 @@
 ### Prazer, Andressa Quintanilha! 😊
 
 - 👩‍💻 Analista de Testes e Qualidade de Software Júnior
-- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas - FATEC
+- 🎓 Pos Graduanda em Gestão de Projetos - USP
 
 
 <div>
